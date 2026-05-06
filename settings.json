@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "Pdf_file.aternos.me:39372",
+    "port": 39372,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
-        "I like to play Minecraft!"
+        "aprende a jogar",
+        "arranja uma namorada",
+        "e um emprego? não?"
       ]
     },
     "chat-log": true,
